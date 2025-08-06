@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "environment": "development",
+    "debug": true,
+    "port": 3000
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "user",
+    "password": "password",
+    "database": "product_catalog"
+  },
+  "api": {
+    "version": "1.0",
+    "base_url": "/api/v1"
+  },
+  "logging": {
+    "level": "info",
+    "file": "logs/app.log"
+  }
+}

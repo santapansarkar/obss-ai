@@ -1,0 +1,75 @@
+Here are the contents for the file /py-samples/TMF620_Product_Catalog_Management/controllers/category_controller.py:
+
+class CategoryController:
+    def __init__(self):
+        # Initialize any necessary variables or services
+        pass
+
+    def get_categories(self):
+        # Logic to retrieve categories
+        pass
+
+    def create_category(self, category_data):
+        # Logic to create a new category
+        pass
+
+    def update_category(self, category_id, category_data):
+        # Logic to update an existing category
+        pass
+
+    def delete_category(self, category_id):
+        # Logic to delete a category
+        pass
+
+Here are the contents for the file /py-samples/TMF620_Product_Catalog_Management/controllers/controller.py:
+
+class Controller:
+    def __init__(self):
+        # Initialize any necessary variables or services
+        pass
+
+    def handle_request(self, request):
+        # Logic to handle a generic request
+        pass
+
+Here are the contents for the file /py-samples/TMF620_Product_Catalog_Management/controllers/events_subscription_controller.py:
+
+class EventsSubscriptionController:
+    def __init__(self):
+        # Initialize any necessary variables or services
+        pass
+
+    def subscribe(self, subscription_data):
+        # Logic to subscribe to events
+        pass
+
+    def unsubscribe(self, subscription_id):
+        # Logic to unsubscribe from events
+        pass
+
+    def get_subscriptions(self):
+        # Logic to retrieve all subscriptions
+        pass
+
+Here are the contents for the file /py-samples/TMF620_Product_Catalog_Management/controllers/export_job_controller.py:
+
+class ExportJobController:
+    def __init__(self):
+        # Initialize any necessary variables or services
+        pass
+
+    def create_export_job(self, job_data):
+        # Logic to create a new export job
+        pass
+
+    def get_export_jobs(self):
+        # Logic to retrieve all export jobs
+        pass
+
+    def delete_export_job(self, job_id):
+        # Logic to delete an export job
+        pass
+
+Here are the contents for the file /py-samples/TMF620_Product_Catalog_Management/controllers/...:
+
+# This file is intentionally left blank.
